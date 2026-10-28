@@ -1,0 +1,5 @@
+.sheet { width: min(640px, calc(100% - 32px)); }
+.sheet h1 { font-family: var(--display); font-size: 32px; }
+.sheet h2 { font-size: 17px; margin: 26px 0 6px; }
+.sheet p { margin: 0 0 10px; color: var(--mute); }
+.sheet a { color: var(--gold-deep); }
